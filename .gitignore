@@ -1,0 +1,6 @@
+snap_to_dust/venv/
+snap_to_dust/__pycache__/
+snap_to_dust/src/__pycache__/
+*.py[cod]
+*.log
+.pytest_cache/
